@@ -32,7 +32,7 @@
 
   <p align="center">
     a fancy dashboard for all your dashboard-y things!
-    <br />e
+    <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
