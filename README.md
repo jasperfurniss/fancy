@@ -14,12 +14,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -136,7 +136,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ## Roadmap
 
-See the [open issues](https://github.com/jasperfurniss/fancy/issues) for a list of proposed features (and known issues). --> -->
+See the [open issues](https://github.com/jasperfurniss/fancy/issues) for a list of proposed features (and known issues). -->
 
 <!-- CONTRIBUTING -->
 
